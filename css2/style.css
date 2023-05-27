@@ -1,0 +1,298 @@
+.container {
+  background-color: white;
+}
+
+.home .nav-link {
+  background-color: #ed1c24;
+  color: white;
+}
+
+#qu {
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#pro {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #ed1c24;
+  line-height: 80px;data-bs-toggle
+}
+
+#aboutdenshop {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #ed1c24;
+  line-height: 60px;
+}
+#aboutourshop {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #ed1c24;
+  line-height: 60px;
+}
+
+#aboutdenprods {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ed1c24;
+  line-height: 20px;
+}
+
+.button1 {
+  background-color: #ed1c24;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  width: 200px;
+  border: none;
+  border-radius: 30px;
+}
+.sendbutton {
+  background-color: #302f2f;
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+  width: 200px;
+  border: none;
+  border-radius: 30px;
+}
+
+.aligncenter {
+  text-align: center;
+}
+
+.alignleft {
+  text-align: left;
+}
+.alignright {
+  text-align: right;
+}
+
+.fright {
+  float: right;
+}
+
+.shopcolor {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #212529;
+  line-height: 60px;
+}
+.hrabout {
+  color: #212529;
+  height: 3px;
+  font-weight: 900;
+}
+
+.container3 {
+  /* position: absolute; */
+  display: flex;
+  left: 0;
+  right: 0;
+  /* width: 100%; */
+}
+
+hr.hrcolor {
+  border: 3px solid #212529;
+  width: 85%;
+}
+hr.hrsection {
+  border-top: 1px solid #212529;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.font12 {
+  font-size: 14pt;
+}
+hr.denproducts {
+  border: 3px solid #212529;
+  width: 16%;
+}
+hr.ourgallery {
+  border: 3px solid #212529;
+  width: 60%;
+  justify-content: center;
+}
+
+.imghover:hover {
+  background-color: red;
+}
+
+.txthover {
+  background-color: red;
+  color: white;
+  font-weight: 400;
+}
+.whitetext {
+  color: white !important;
+  font-weight: 500;
+}
+.divbgcolor {
+  /* background-color: #e7e4e3; */
+  background-color: lightgray;
+
+  /* text-align: center; */
+
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+  /* margin-left: 1px; */
+  margin-right: 30px;
+  /* margin: 4px;
+   */
+  /* border: 30px solid red; */
+}
+
+div.whitebgcolor {
+  background-color: white;
+}
+.rowbgcolor {
+  border: 20px solid #e7e4e3;
+}
+
+.rowdisplay {
+  display: flex;
+}
+
+.containerpro {
+  display: flex;
+  justify-content: space-between; /* Can be changed in the live sample */
+}
+.containerpro2 {
+  display: flex;
+  justify-content: space-around; /* Can be changed in the live sample */
+}
+
+img,
+* {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
+
+.containergallery {
+  padding-left: 35%;
+  padding-right: 35%;
+}
+.ourunderline {
+  text-decoration: underline #212529;
+}
+
+.container4 {
+  display: inline;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container-fluid {
+  display: inline;
+}
+.containerpro3 {
+  width: 100%;
+  /* display: flex;
+  width: 100%;
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #e7e4e3; */
+  /* display: flex; */
+  /* position: absolute; */
+  /* position: absolute; */
+  /* left: 0px; */
+  /* right: 0px; */
+  /* top: 0px; */
+  /* justify-content: space-around;  */
+  /* Can be changed in the live sample */
+}
+
+.marginsetting {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.underline_text {
+  border-bottom: solid 5px #000000;
+  display: inline;
+  padding-bottom: 2px;
+}
+
+div .container-fluid {
+  display: inline;
+}
+
+.bgred {
+  background-color: red;
+}
+
+.textbox {
+  height: 60px;
+  width: 100%;
+  padding-left: 15px;
+  font-size: 15pt;
+  margin-bottom: 20px;
+}
+
+.msgtextbox {
+  height: 150px;
+  width: 100%;
+  padding: 15px;
+
+  font-size: 15pt;
+  margin-bottom: 15px;
+}
+
+.mapimg {
+  display: inline;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 50px;
+}
+.bgcontactus {
+  background-color: #393838;
+}
+
+.contactus {
+  color: white;
+  font-size: 35pt;
+  font-weight: 800;
+}
+.contactusunderline {
+  border-bottom: 5px solid white;
+  display: inline;
+  padding-bottom: 2px;
+}
+.subcontactus {
+  color: white;
+  font-size: 25pt;
+  font-weight: 800;
+}
+.contactext {
+  color: white;
+  font-size: 14pt;
+  font-weight: 300;
+}
+.marginright {
+  margin-right: 0px;
+}
+.inlinedisplay {
+  display: flex;
+}
+.boldtext {
+  font-weight: bold;
+  font-size: 14pt;
+}
